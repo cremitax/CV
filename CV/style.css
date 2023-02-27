@@ -1,0 +1,120 @@
+
+body {
+    font-family: 'Roboto', sans-serif; 
+    font-size:auto;
+    display: flex;
+    background: #CB9FFA;
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+.Header{
+ /*border: 1px solid #ccc;*/
+ margin-left: 0px;
+ width: 213px;
+ background-color:#9986E3;
+ padding: 3px;
+ margin-bottom: auto;
+
+}
+
+.Todalacaja{
+    width: 800px;
+    height: 1000px;
+    margin: 100px auto;
+    background: #9986E3;
+    box-shadow: 5px 21px 20px 20px #3d3f4238;
+}
+
+.Nombre {
+    /*width: 10px;*/
+    margin-top: 167px;
+    font-size: 100%;
+    text-align: center;   
+}
+.img{
+    width: 150px;
+    height: 150px;
+    border-radius: 10px;
+    position: absolute;
+    border: 4px solid #e7f6ff;
+}
+.Idioma{
+    width: 200px;
+    border: 2px solid #856CE6; 
+    margin-top: 10%;
+    text-align: center;   
+    
+}
+.idioma .h1{
+    margin: 0 auto;
+    padding: 2px;
+    border-bottom: 1px solid var(--lightgray);
+    border-top: 1px solid var(--lightgray);
+    color: var(--black);
+    text-transform: uppercase;
+    font-size: 18px;
+    font-weight: bolder;
+    margin-left: 50px;
+    line-height: 18px;
+}
+    
+
+.Info{
+    width: 200px;
+    border: 2px solid #856CE6; 
+    margin-top: 10%;
+    text-align: center;   
+}
+
+
+
+.Cont2{
+    margin: 1px;
+    width: 383px;
+    margin-top: -814px;
+    margin-left: -291px;
+    padding: 40px 30px;
+    background: var(--white);
+    width: 68%;
+    float: left;
+    height: 987px;
+
+}
+
+.Datos{
+    margin-left: 90%;
+    width: 100%;
+    border: 2px solid #856CE6;
+    margin-top: 10%;
+    background-color:#9986E3;
+}
+.Edu{
+    margin-left: 90%;
+    width: 100%;
+    border: 2px solid #856CE6;
+    margin-top: 5%;
+    background-color: #9986E3;
+}
+.Exp{
+    margin-left: 90%;
+    width: 100%;
+    border: 2px solid #856CE6;
+    margin-top: 5%;
+    background-color:#9986E3 ;
+}
+.Inf{
+    margin-left: 90%;
+    width: 100%;
+    border: 2px solid #856CE6;
+    margin-top: 5%;
+    background-color:#9986E3;
+}
+.material-symbols-outlined{
+    width: 20px;
+    padding: 7px;
+    border-radius: 7px;
+    margin-top: -6px;
+    margin-left: 80px;
+}
